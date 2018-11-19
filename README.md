@@ -1,2 +1,2 @@
 # Messenger-Application
-A message passing application built with web sockets and node js.
+A message passing application built with react-native.
